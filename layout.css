@@ -1,0 +1,72 @@
+/*
+Template Name: PhotoBusiness
+File: Layout CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+@import url(gallery.css);
+
+#container{
+	padding:30px 0;
+	}
+	
+#container, .gallery{
+	position:relative;
+	margin:0 auto 0;
+	display:block;
+	width:960px;
+	}
+
+div.wrapper{
+	display:block;
+	width:100%;
+	margin:0 0 0x 200px;
+	text-align:center;
+	}
+	
+.col3{
+	color:#DBDBDB; 
+	background-color:#; 
+	border-bottom:0 
+	solid #3B3B3B;
+	}
+	
+.gallery{
+	padding:20px 0 30px 0;
+	}
+
+.wrapper .gallery h2{
+	display:block;
+	text-align:center;
+	margin:0 0 20px 0;
+	padding:0;
+	color:#2C2C2C;
+	background-color:#000000;
+	font-size:56px;
+	text-transform:uppercase;
+	line-height:normal;
+	}
+
+.gallery ul{
+	display:inline;
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+.gallery ul li{
+	display:block;
+	float:left;
+	margin:0 10px 10px 0;
+	}
+
+.gallery ul li img{
+	width:174px;
+	height:174px;
+	padding:4px;
+	border:1px solid #FFFF00;
+	}
+
+.gallery ul li.last{margin-right:0;}

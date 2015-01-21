@@ -1,0 +1,118 @@
+<!--ADM MMBR--!>
+
+body  {
+background: #F4F4F4;
+margin: 0;
+}
+
+ IUP 
+#container { 
+width: 780px;
+margin: 0 auto;
+background: #FFFFFF;
+}
+
+#colaborations { 
+padding: 25px 30px 20px 350px;
+} 
+
+#header a {
+color:#039;
+text-decoration: none;
+font-size: 30px; 
+font-family: "Myriad Pro", "Arial Narrow";
+}
+
+#picture{
+float: left;
+width: 394px;
+padding: 10px 0 0 221px;
+}
+
+#menu {
+background-color: #333; 
+padding: 6px 10px 6px 250px;
+}
+
+#menu a {
+color: #c5d6db;
+text-decoration: none; 
+font-size: 14px; 
+font-family: "Arial Narrow", "Myriad Pro";
+}
+
+#menu a:hover {
+color: #6CF;
+}
+
+#menu a.current_page_item
+{
+color: #09F;
+}
+
+#sidebar {
+float: left;
+width: 150px;
+padding: 110px 110px 110px 40px;
+margin: 0 0 0 0;
+}
+
+h1 {
+margin: 0;
+color: #39F; 
+font-size:24px; 
+font-family:"Myriad Pro"; 
+font-weight: normal;
+}
+
+h3 {
+margin: 0px;
+color: #39F; 
+font-size:14px; 
+font-family:"Myriad Pro"; 
+font-weight: normal;
+}
+
+h2 {
+color: #666;
+font-family: "Constantia";
+font-size: 25px;
+margin: 20px 0 25px 0;
+}
+
+#main { 
+margin: 0 0 0 50px;
+padding: 30px 0 0 70px;
+color: #666;
+font-family: "Calibri";
+font-size: 15px; 
+line-height: 20px;
+text-align: justify;
+} 
+
+#main a {
+color: #3b7687; 
+text-decoration: none;
+}
+
+#main a:hover {
+color: #444444;
+}
+
+#navigation{float: left; 
+			width: 100%; 
+			background: 0}
+			
+#footer {
+padding: 6px 40px 6px 40px;
+font-family: "Lucida Sans Unicode";
+color: #FFF;
+font-size: 12px;
+text-align: center;
+position: absolute;
+bottom: -1218px;
+width: 100%;
+height: 20px;   /* Height of the footer */
+background: #333;
+left: -50px;
+}
